@@ -91,7 +91,7 @@ export default function App() {
 
           <TypingEffect
             text={
-              "Hey love...\n\nFrom the moment you came into my life, everything became brighter.You make my ordinary days magical, and my smile effortless.Timi merooo sabthok mero future hou. Isee my rest of the lives with you. I hope you also do the same. Yo bich ma kaile kai jhagada hunchan tara haami sadhai sangai hunaparcha. Hijo asti ko hamro jhagada ko laagi I am really sorryy babyy. Maile kei galat vaney I know i am sorry for that and i regret it as well.You are my life, my everything.Even my family loves you alot. Timi mero ghar ko buhari houuuuu. Timi nai hou.Timi nai banna parcha.I only want and need you.This is our third valentine together and i want you as my valentine for rest of the lives."
+              "Hey love...\n\nFrom the moment you came into my life, everything became brighter.You make my ordinary days magical, and my smile effortless.Timi merooo sabthok mero future hou. Isee my rest of the lives with you. I hope you also do the same. Yo bich ma kaile kai jhagada hunchan tara haami sadhai sangai hunaparcha. Hijo asti ko hamro jhagada ko laagi I am really sorryy babyy. Maile kei galat vaney I know i am sorry for that and i regret it as well.You are my life, my everything.Even my family loves you alot. Timi mero ghar ko buhari houuuuu. Timi nai hou.Timi nai banna parcha.I only want and need you.This is our third valentine together and i want you as my valentine for rest of the lives.Will you be mine valentine for resst of my lives?Please say, yes"
             }
             onComplete={() => setTypingDone(true)}
           />
